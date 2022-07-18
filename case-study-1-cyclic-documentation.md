@@ -89,7 +89,7 @@ Analysis of the calculated ride times by membership status revealed a few intere
 * A similar point was seen in the median ride length. Casual riders had a median ride length of 15 minutes and 16 seconds while Member riders had a median ride length of 9 minutes and 7 seconds. 
 * The max ride time also showed a striking difference between the two. The maximum ride length for a Casual rider was 38.8 days long while the maximum ride length for a Member rider was 1.08 days long.
 
-![Average and median ride length per membership type](average-median-ride-membership.png)
+![Average and median ride length per membership type](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/average-median-ride-membership.png)
 
 #### Calculated Day Ride Times Analysis
 The trends seen in the 'Calculated Ride Times' analysis were also reflected in the 'Calculated Day Ride Times' analysis. Casual riders per day of the week, had an average ride length higher than Member riders. This was also true in the median ride length.
@@ -104,7 +104,7 @@ Average ride length by day of the week (Casual - Member):
 * Friday: 28:47 - 12:47
 * Saturday: 33:30 - 14:37
 
-![Average ride length by day of the week per membership type](average-time-day-membership.png)
+![Average ride length by day of the week per membership type](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/average-time-day-membership.png)
 
 Median ride length by day of the week (Casual - Member):
 
@@ -116,7 +116,7 @@ Median ride length by day of the week (Casual - Member):
 * Friday: 14:26 - 8:57
 * Saturday: 17:09 - 10:15
 
-![Median ride length by day of the week per membership](median-time-day-membership.png)
+![Median ride length by day of the week per membership](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/median-time-day-membership.png)
 
 #### Rides By Day Analysis
 Looking at the 'Rides By Day' analysis offered another important piece of information. While the other two data sets showed that Casual riders use the Cyclistic bicycle longer than their Member rider counterparts, the 'Rides By Day' data set revealed that Member riders take more rides than Casual members do except for weekends.
@@ -131,18 +131,18 @@ Number of rides by day of the week (Casual - Member):
 * Friday: 359,969 - 459,766
 * Saturday: 546,090 - 441,015
 
-![Number of rides by day of the week per membership type](total-rides-day-membership.png)
+![Number of rides by day of the week per membership type](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/total-rides-day-membership.png)
 
 #### Overall Analysis
 In total, Casual riders took 2,559,501 rides on Cyclistic bicycles while Member riders took 3,300,629 rides. Conversely, Casual riders used Cyclistic bicycles for a total of 54,297 hours while Member riders used the bicycles for a total of 29,897 hours. 
 
 Another way to view those numbers is that in terms of the number of times a Cyclistic bicycle was used 56.32% of those were by Member riders while 43.68% were by Casual riders. 
 
-![Percent of total Cyclistic bicycle rides per membership type](percent-total-rides-rider.png)
+![Percent of total Cyclistic bicycle rides per membership type](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/percent-total-rides-rider.png)
 
 However, of total hours that Cyclistic bicycles were in use, 64.49% were being used by Casual riders and only 35.51% were by Member riders.
 
-![Percent of total ride hours per membership type](percent-total-hours-used-rider.png)
+![Percent of total ride hours per membership type](https://github.com/jaec0113/cyclistic-case-study-github/blob/master/cyclistic-analysis-visualizations/percent-total-hours-used-rider.png)
 
 The data from the past 12 months indicates that Casual riders don't use Cyclistic bicycles as often as Member riders, but when they do use Cyclistic they tend to make longer rides and keep the bicycles for longer periods of time. Member riders on the other hand make shorter, but more frequent trips on Cyclistic bicycles.
 
